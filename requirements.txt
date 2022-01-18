@@ -3,3 +3,5 @@ gevent
 twisted
 aiohttp
 aiopg
+PyYAML
+blinker
