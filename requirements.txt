@@ -5,3 +5,9 @@ aiohttp
 aiopg
 PyYAML
 blinker
+requests
+requests_mock
+bugzilla
+boom
+molotov
+flask-webtest
