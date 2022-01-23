@@ -11,3 +11,8 @@ bugzilla
 boom
 molotov
 flask-webtest
+pytest
+flake8<4
+pytest-flake8
+sphinx
+git+https://github.com/Runnerly/flakon.git#egg=flakon
