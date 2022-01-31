@@ -201,3 +201,5 @@ $RECYCLE.BIN/
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+
+*.pem
