@@ -1,0 +1,21 @@
+{
+  "name": "dashboard",
+  "homepage": "https://github.com/yooseongc/python-microservice-study",
+  "authors": [
+    "Yooseong Choi <choiys3574@naver.com>"
+  ],
+  "description": "Runnerly Dashboard",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^16.1.0"
+  }
+}
